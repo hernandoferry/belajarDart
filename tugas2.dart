@@ -5,7 +5,7 @@
 void main() {
   int nilaiUts = 100;
   int nilaiUas = 90;
-  double kehadiran = 100;
+  double kehadiran = 70;
 
   double nilaiRataRata = (nilaiUts + nilaiUas) / 2;
 
@@ -22,6 +22,7 @@ void main() {
     print("Nilai UAS : $nilaiUas");
     print("Nilai UTS: $nilaiUts");
     print("Nila Rata-rata: $nilaiRataRata");
+    print("Kehadiran: $kehadiran %");
     print("Maaf silahkan mengulang di semester berikutnya");
   }
 }
