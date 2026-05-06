@@ -23,6 +23,6 @@ void main() {
     print("Nilai UTS: $nilaiUts");
     print("Nila Rata-rata: $nilaiRataRata");
     print("Kehadiran: $kehadiran %");
-    print("Maaf silahkan mengulang di semester berikutnya");
+    print("Status : Maaf silahkan mengulang di semester berikutnya");
   }
 }
