@@ -1,7 +1,6 @@
 // Tugas 2 fundamental dart //
 // Rabu 6 Mei 2026 //
 // Peserta : Ferry //
-import 'dart:ffi';
 import 'dart:io';
 
 void main() {
